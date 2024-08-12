@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaoff27&label=Profile%20views&color=00ff00&style=plastic" alt="yuvaoff27" /> </p>
 
-- 🔭 I’m currently pursuing *Master of Computer Application*
+- 🔭 I’m currently pursuing **Master of Computer Application**
 
 - 🌱 I’m currently learning *React js*
 
@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [www.domain.in](www.domain.in)
 
-- 💬 Ask me about *Dedication and commitment*
+- 💬 Ask me about **Dedication and commitment**
 
-- 📫 How to reach me *yuvaoff27@gmail.com*
+- 📫 How to reach me **yuvaoff27@gmail.com**
 
 - 📄 Know about my experiences [www.resume.in](www.resume.in)
 
-- ⚡ Fun fact *I think I am funny*
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
