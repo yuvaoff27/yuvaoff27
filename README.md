@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yuvaoff27@gmail.com**
 
-- 📄 Know about my experiences [www.resume.in](www.resume.in)
+- 📄 Know about my experiences [www.resume.in](https://github.com/yuvaoff27/My-Resume.git)
 
 - ⚡ Fun fact **I think I am funny**
 
