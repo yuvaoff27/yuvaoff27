@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing **Master of Computer Application**
 
-- 🌱 I’m currently learning *React js*
+- 🌱 I’m currently learning *React Native*
 
 - 👯 I’m looking to collaborate on [Chatting App](https://www.instagram.com/mr..unique.01.?igsh=mwczam0yahz3cdjtoq==)
 
