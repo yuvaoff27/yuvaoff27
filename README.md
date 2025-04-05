@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Chatting App](https://www.instagram.com/mr..unique.01.?igsh=mwczam0yahz3cdjtoq==)
 
-- 👨‍💻 All of my projects are available at [www.domain.in](www.domain.in)
+- 👨‍💻 All of my projects are available at [www.domain.in](https://yuva2001.neocities.org/Portfolio/)
 
 - 💬 Ask me about **Dedication and commitment**
 
