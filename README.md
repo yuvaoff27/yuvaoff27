@@ -12,21 +12,12 @@
 
 Motivated **MCA graduate** with a strong foundation in **Java, React, Spring Boot and web technologies**. I am looking for a **Java Full Stack Developer** role where I can contribute to innovative projects, sharpen my skills and grow as a software professional.
 
-- 🎓 Completed **Master of Computer Application (MCA)** with a CGPA of 8.10
+- 🎓 Completed **Master of Computer Application (MCA)**
 - 💼 Completed a **Java Full Stack course**
 - 🌱 Building full stack projects and exploring **AI tools**
-- 👯 Looking to collaborate on chat and video communication projects like **RealTalk**
+- 👯 Looking to collaborate on chat and video communication projects
 - 💬 Ask me about **Dedication and commitment**
 - ⚡ Fun fact: **I think I am funny**
-
----
-
-## 🎓 Education
-
-| Year | Course | Institution | CGPA |
-|------|--------|-------------|------|
-| 2023 – 2025 | Master of Computer Application (MCA) | Rathinam Technical Campus, Coimbatore | 8.10 |
-| 2020 – 2023 | B.Sc. Computer Science | KMG College of Arts and Science, Vellore | 8.04 |
 
 ---
 
@@ -74,44 +65,6 @@ Motivated **MCA graduate** with a strong foundation in **Java, React, Spring Boo
 
 **Core Concepts:** Object-Oriented Programming (OOP) · Problem Solving
 **Soft Skills:** Leadership · Collaboration · Communication · Positive Attitude
-
----
-
-## 🚀 Featured Projects
-
-### 💬 RealTalk: A Scalable Chat and Video Communication Platform
-*May 2025 – June 2025*
-- Built a real-time communication platform with both **chat and video calling**
-- Implemented **user authentication, message delivery and video stream management** for smooth interactions
-- Focused on **scalability and responsiveness** so many users can be connected at the same time
-
-<!-- add your repository link here -->
-
-### 🤖 Smart Mobile-Controlled Mini Surveillance Robot Car
-*February 2025 – April 2025*
-- Designed and built a remote-controlled spy car using an **ESP32-CAM** module for **live video streaming over Wi-Fi**
-- Integrated a **custom PCB** for efficient motor control and power management
-
-<!-- add your repository link here -->
-
-### 🍔 Online Food Delivery Website
-*September 2024 – December 2024*
-- Built a **full stack food delivery platform** with user authentication, restaurant listings and **real-time order tracking**
-- Created a dynamic UI and connected backend APIs for smooth end-to-end order management
-
-<!-- add your repository link here -->
-
-### 🧪 Practice Projects
-- **Hibernate mapping practice:** one-to-one (user with Aadhar, Pancard and Passport) and one-to-many (department with employees) using Hibernate/JPA and MySQL
-- **Spring Boot product application:** Spring Boot, Spring Data JPA, Spring Security and MySQL
-
----
-
-## 📜 Certifications
-
-- 🏅 **Meta Frontend Development Certification** (Coursera)
-- 🏅 **Generative AI: Prompt Engineering** (Coursera)
-- 🏅 **Figma for UI/UX** (Coursera)
 
 ---
 
