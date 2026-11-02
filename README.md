@@ -13,7 +13,7 @@
 Motivated **MCA graduate** with a strong foundation in **Java, React, Spring Boot and web technologies**. I am looking for a **Java Full Stack Developer** role where I can contribute to innovative projects, sharpen my skills and grow as a software professional.
 
 - 🎓 Completed **Master of Computer Application (MCA)**
-- 💼 Completed a **Java Full Stack course**
+- 💼 Completed a **Java Full Stack**
 - 🌱 Building full stack projects and exploring **AI tools**
 - 👯 Looking to collaborate on chat and video communication projects
 - 💬 Ask me about **Dedication and commitment**
